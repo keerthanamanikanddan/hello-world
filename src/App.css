@@ -1,0 +1,82 @@
+.nav-container  {
+    background-color: #282c34;
+    padding: 30px 100px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.nav-container nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-container nav ul li {
+    margin-right: 20px;
+}
+
+.nav-container nav ul li:last-child {
+    margin-right: 0;
+}
+
+.nav-container nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+h1.a {
+    margin-left: 150px;
+}
+
+h1.a {
+    margin-left: 150px;
+}
+ 
+h1.b {
+    margin-left: 150px;
+}
+
+h1.c {
+    margin-left: 150px;
+}
+
+h1.d {
+    margin-left: 150px;
+}
+
+img {
+    margin-left: 800px;
+    margin-top: -150px;
+    display: flex;
+}
+
+div.products-nav nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-top: -50px;
+}
+
+div.products-nav nav ul li {
+    margin-right: 20px;
+}
+
+div.products-nav nav ul li{ 
+    text-decoration: none;
+    color: #282c34;
+}
+
+div.fashion {
+    margin-left: 37px;
+}
+
+div.electronics {
+    margin-left: 37px;
+}
+
+.ul-container ul li a.active {
+    border-bottom: 1px solid #fff;
+}
